@@ -1,0 +1,2 @@
+scenedetect -i ACCEDE00009.mp4 -d content -t 30 -df 2  -l
+
